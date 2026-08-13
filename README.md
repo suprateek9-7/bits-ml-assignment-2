@@ -1,5 +1,5 @@
 # Breast Cancer Classification Streamlit App
-https://bits-ml-assignment-2git-dpkmzjeha3vk5vdvtrqtca.streamlit.app/
+
 ## Problem statement
 
 The goal of this project is to build an end-to-end machine learning classification application that predicts whether a breast tumor sample is benign or malignant from numeric diagnostic measurements. The project trains multiple classifiers on the same dataset, compares them with standard evaluation metrics, and exposes the results through an interactive Streamlit application.
@@ -16,17 +16,11 @@ The goal of this project is to build an end-to-end machine learning classificati
 
 The dataset satisfies the assignment constraints because it has more than 500 records and more than 12 features. The bundled `test_data.csv` file contains the held-out test split used for app demonstration and evaluation.
 
-## GitHub repository link
-
-Add your GitHub repository link here after uploading this folder:
-
-`https://github.com/<your-user>/<your-repo>`
-
 ## Live Streamlit app link
 
 Add your deployed Streamlit Community Cloud link here after deployment:
 
-`https://<your-app-name>.streamlit.app`
+[`https://<your-app-name>.streamlit.app`](https://bits-ml-assignment-2git-dpkmzjeha3vk5vdvtrqtca.streamlit.app/)
 
 ## Models used
 
