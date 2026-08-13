@@ -78,17 +78,4 @@ http://localhost:8501
 - Confusion matrix and classification report
 - Single-record prediction form
 
-## Repository structure
-
-```text
-project-folder/
-|-- app.py
-|-- requirements.txt
-|-- README.md
-|-- test_data.csv
-|-- model/
-|   |-- train_models.py
-|   |-- model_metadata.json
-|   |-- *.joblib
-|-- model_metrics.csv
 ```
