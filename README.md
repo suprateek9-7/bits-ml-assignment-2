@@ -20,7 +20,7 @@ The dataset satisfies the assignment constraints because it has more than 500 re
 
 Add your deployed Streamlit Community Cloud link here after deployment:
 
-[`https://<your-app-name>.streamlit.app`](https://bits-ml-assignment-2git-dpkmzjeha3vk5vdvtrqtca.streamlit.app/)
+[`https://breast-cancer-detection.streamlit.app`](https://bits-ml-assignment-2git-dpkmzjeha3vk5vdvtrqtca.streamlit.app/)
 
 ## Models used
 
